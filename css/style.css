@@ -1,0 +1,28 @@
+.count{
+    width: 500px;
+}
+.img{
+    height: 300px;
+}
+#about3{
+    border:2px solid rgb(229,229,229);
+}
+#linkstyle1{
+    text-decoration: none;
+    color:grey;
+}
+#linkstyle1:hover{
+    text-decoration: none;
+    color:white;
+}
+#linkstyle2{
+    text-decoration: none;
+    color:lightskyblue;
+}
+#linkstyle2:hover{
+    text-decoration: none;
+    color:white;
+}
+.shad:hover{
+     box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
